@@ -1,0 +1,23 @@
+Prep Fáze:
+    - Dodělání kitů
+    - particle kroužící efekty
+Starting Fáze:
+    - asi nic
+Game Fáze:
+    - pointy
+    - na středu, hopper system
+     - udělat api ukazatele
+     - vytvořit market
+     - udělat basky
+        - spustit brány
+
+    NoPvP:
+        - turets
+    PVP:
+        - napsat pvp zone
+        - Napsat oznameni
+Finish Fáze:
+
+
+
+permission: "beacon.at"

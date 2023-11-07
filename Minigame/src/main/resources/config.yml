@@ -1,0 +1,37 @@
+PlayersForGame: 2
+TeamA: 4
+TeamB: 4
+TeamC: 4
+TeamD: 4
+StartFazeTime: 30
+FirstGameFazeTime: 5
+BorderSize: 250
+RocketTimer: 10
+SpawnSpec:
+  x = 69  
+  y = 69
+  z = 69
+Spawn:
+  x = 69
+  y = 69
+  z = 69
+TeamASpawn:
+  x = 69
+  y = 69
+  z = 69
+TeamBSpawn:
+  x = 69
+  y = 69
+  z = 69
+TeamCSpawn:
+  x = 69
+  y = 69
+  z = 69
+TeamDSpawn:
+  x = 69
+  y = 69
+  z = 69
+BorderCenter:
+  x = 69
+  y = 69
+  z = 69

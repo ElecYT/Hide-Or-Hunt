@@ -1,0 +1,11 @@
+name: Minigame
+version: '${project.version}'
+main: me.mrmermit.Minigame
+api-version: 1.19
+commands:
+  setspawn:
+    description: will set minigame spawn
+  tpworld:
+    description: it will teleport you between world
+  reloadconfig:
+    description: this command will reload config file
